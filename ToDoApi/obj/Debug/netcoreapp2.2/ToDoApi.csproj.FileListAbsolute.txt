@@ -1,0 +1,26 @@
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.deps.json
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.json
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.dev.json
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.dll
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.pdb
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.csprojAssemblyReference.cache
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cache
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cs
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfo.cs
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.dll
+C:\Users\Efe\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.pdb
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.deps.json
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.json
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.runtimeconfig.dev.json
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.dll
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\bin\Debug\netcoreapp2.2\ToDoApi.pdb
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.csprojAssemblyReference.cache
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cache
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorAssemblyInfo.cs
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.AssemblyInfo.cs
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.dll
+C:\Users\Utku\Desktop\Yeni klasör\ToDoApi_new\ToDoApi\obj\Debug\netcoreapp2.2\ToDoApi.pdb
